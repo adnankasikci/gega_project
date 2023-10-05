@@ -1,7 +1,7 @@
 ## GEGA Movie Web Site with Tailwind
 
-Tailwind yaklaşımlarına aşinalık ve tailwind teknolojisini anlama.
-https://musicprize.netlify.app/
+Tailwind yaklaşımlarına aşinalık ve tailwind teknolojisini anlama. https://tailwind-batman.netlify.app/
+
 
 #### Proje Amacı
 ---
